@@ -1,6 +1,6 @@
 "# project-bibliophile" 
-#Best Selling Books Data Analysis
-##Project Overview
+# Best Selling Books Data Analysis
+## Project Overview
 This project examines a list of best-selling books to find important trends and information in the book marketplace. The aim is to find top authors, genres, and publishers by sales volume.
 ## Key Findings 
 Based on the analysis, some of the key insights include:
@@ -19,4 +19,5 @@ This repository contains the following files:
 ## Technical Details
 * **Language:** Python 3
 * **Libraries:** Pandas, Matplotlib
+
 
